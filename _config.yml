@@ -1,13 +1,12 @@
 title: My Test Blog
 author: Tom Twig
 email: -
+theme: minima
 description: > # this means to ignore newlines until "baseurl:"
   some random lorum ipsum description. No search-engine will ever find it.
   
-theme: minima 
+
 
 # social links
-twitter_username: -
 github_username:  TomTwig
 
-show_excerpts: true # set to false to remove excerpts on the homepage
